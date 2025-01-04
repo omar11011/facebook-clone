@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: "https://omar11011.github.io/facebook-clone/",
+  base: "/facebook-clone/",
 });
