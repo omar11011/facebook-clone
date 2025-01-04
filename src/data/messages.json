@@ -1,0 +1,25 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "senderId": 1,
+      "content": "¡Hola! ¿Cómo estás?",
+      "time": "Hace 5 min",
+      "unread": true
+    },
+    {
+      "id": 2,
+      "senderId": 2,
+      "content": "¿Viste las fotos que compartí?",
+      "time": "Hace 30 min",
+      "unread": true
+    },
+    {
+      "id": 3,
+      "senderId": 3,
+      "content": "Gracias por la ayuda de ayer",
+      "time": "Hace 2 horas",
+      "unread": false
+    }
+  ]
+}

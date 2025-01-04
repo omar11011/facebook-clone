@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ana Martínez",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&h=150&fit=crop",
+      "coverPhoto": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800",
+      "status": "online"
+    },
+    {
+      "id": 2,
+      "name": "Carlos López",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop",
+      "coverPhoto": "https://images.unsplash.com/photo-1518098268026-4e89f1a2cd8e?w=800",
+      "status": "offline"
+    },
+    {
+      "id": 3,
+      "name": "Laura Sánchez",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop",
+      "coverPhoto": "https://images.unsplash.com/photo-1477346611705-65d1883cee1e?w=800",
+      "status": "online"
+    },
+    {
+      "id": 4,
+      "name": "Roberto Díaz",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop",
+      "coverPhoto": "https://images.unsplash.com/photo-1505159940484-eb2b9f2588e2?w=800",
+      "status": "online"
+    },
+    {
+      "id": 5,
+      "name": "María García",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&h=150&fit=crop",
+      "coverPhoto": "https://images.unsplash.com/photo-1518756131217-31eb79b20e8f?w=800",
+      "status": "offline"
+    }
+  ]
+}

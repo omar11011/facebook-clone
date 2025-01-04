@@ -1,0 +1,28 @@
+{
+  "notifications": [
+    {
+      "id": 1,
+      "userId": 4,
+      "type": "like",
+      "postId": 1,
+      "time": "Hace 10 min",
+      "unread": true
+    },
+    {
+      "id": 2,
+      "userId": 5,
+      "type": "comment",
+      "postId": 2,
+      "content": "¡Qué bonitas fotos!",
+      "time": "Hace 1 hora",
+      "unread": true
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "type": "friend",
+      "time": "Hace 3 horas",
+      "unread": false
+    }
+  ]
+}
